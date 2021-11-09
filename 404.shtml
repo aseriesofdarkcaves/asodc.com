@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-IE">
+    <head>
+        <title>File Not Found</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" >
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="free music downloads">
+        <meta name="keywords" content="music,download,asodc,darkcaves,aseriesofdarkcaves">
+        <meta name="author" content="A Series of Dark Caves">
+        <link rel="stylesheet" type="text/css" href="./css/stylesheet.css">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    </head>
+
+    <body>
+        <div id="error-container">
+            <h1><a class="root-navigation" href="./home.html">A Series of Dark Caves</a></h1>
+            <svg height="100" width="100">
+                <polygon points="50,25 17,80 82,80" stroke-linejoin="round" style="fill:none;stroke:#ff8a00;stroke-width:8" />
+                <text x="42" y="74" fill="#ff8a00" font-family="sans-serif" font-weight="900" font-size="42px">!</text>
+                <h1>Woah there horsey! (404 error)</h1>
+            </svg>
+        </div>
+        <div id="footer-container">
+            <footer>
+                <a href="https://www.facebook.com/aseriesofdarkcaves" target="_blank">
+                    <img src="./images/fb.png" height="50px" width="50px" align="top" alt="Facebook">
+                </a>
+                <a href="https://soundcloud.com/aseriesofdarkcaves" target="_blank">
+                    <img src="./images/sc.png" height="50px" width="50px" align="top" alt="Soundcloud">
+                </a>
+                <a href="https://twitter.com/darkcaves" target="_blank">
+                    <img src="./images/tw.png" height="50px" width="50px" align="top" alt="Twitter">
+                </a>
+                <p>A Series of Dark Caves</p>
+            </footer>
+        </div>
+    </body>
+</html>
