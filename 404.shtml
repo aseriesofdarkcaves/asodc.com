@@ -22,14 +22,8 @@
         </div>
         <div id="footer-container">
             <footer>
-                <a href="https://www.facebook.com/aseriesofdarkcaves" target="_blank">
-                    <img src="./images/fb.png" height="50px" width="50px" align="top" alt="Facebook">
-                </a>
                 <a href="https://soundcloud.com/aseriesofdarkcaves" target="_blank">
                     <img src="./images/sc.png" height="50px" width="50px" align="top" alt="Soundcloud">
-                </a>
-                <a href="https://twitter.com/darkcaves" target="_blank">
-                    <img src="./images/tw.png" height="50px" width="50px" align="top" alt="Twitter">
                 </a>
                 <p>A Series of Dark Caves</p>
             </footer>
